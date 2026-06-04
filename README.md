@@ -62,8 +62,6 @@
 | 🧹 Clean Architecture | ████████░░░░░░░░ 65% |
 | 🤖 AI Integration | ██████░░░░░░░░░░ 50% |
 
-> 🎯 *Building robust APIs · Designing scalable backends with ASP.NET Core & MERN*
-
 ---
 
 ## 🗂️ Featured Projects
