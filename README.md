@@ -91,6 +91,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Na-tech74&color=4F8EF7&style=flat-square&label=Profile+Views)
 
-*"Talk is cheap. Show me the code."* — Linus Torvalds 🧑‍💻
+*"I like coffee ☕, I like code 💻, and I love building things that matter."*
+
+**Made with 🧡 by Nam** — *If you find this useful, buy me a star (it's free! ⭐)*
+
 
 </div>
