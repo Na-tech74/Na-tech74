@@ -90,7 +90,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Na-tech74&theme=tokyonight&hide_border=true&background=0D1117&stroke=4F8EF7&ring=4F8EF7&fire=FF6C37&currStreakLabel=4F8EF7)
+![GitHub Streak](https://streak-stats.demolab.com?user=Na-tech74&theme=tokyonight&hide_border=true&background=0D1117&stroke=4F8EF7&ring=4F8EF7&fire=FF6C37&currStreakLabel=4F8EF7&random=1)
 
 </div>
 
