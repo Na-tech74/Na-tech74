@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hi there 👋 I'm **Nam**
+# Hi there 👋 I'm **Nam Nguyễn**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F8EF7&center=true&vCenter=true&width=500&lines=Information+Technology+Student;Backend+Developer;MERN+Stack+%26+ASP.NET+Core;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-🎓 **IT Student** &nbsp;|&nbsp; 💻 **Backend Developer** &nbsp;|&nbsp; 🚀 **MERN Stack & ASP.NET Core**
+🎓 **Information Technology Engineering** &nbsp;|&nbsp; 💻 **Backend Developer** &nbsp;|&nbsp; 🚀 **MERN Stack & ASP.NET MVC**
 
 </div>
 
