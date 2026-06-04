@@ -61,6 +61,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Na-tech74&color=4F8EF7&style=flat-square&label=Profile+Views)
 
-*"Code is like humor. When you have to explain it, it's bad."* 🧑‍💻
+*"The code is working, don't touch it."* 🧑‍💻
 
 </div>
