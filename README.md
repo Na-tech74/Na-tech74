@@ -2,11 +2,11 @@
 
 # Hi there 👋 I'm **Nam**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F8EF7&center=true&vCenter=true&width=500&lines=Information+Technology+Student;Backend+Developer;MERN+Stack+%26+ASP.NET+Core;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4F8EF7&center=true&vCenter=true&width=500&lines=Information+Technology+Student;Backend+Developer;MERN+Stack+%26+ASP.NET+Core;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-🎓 **Information Technology Engneering Major** &nbsp;|&nbsp; 💻 **Backend Developer** &nbsp;|&nbsp; 🚀 **MERN Stack & ASP.NET Core**
+🎓 **Information Technology Engineering Major** &nbsp;|&nbsp; 💻 **Backend Developer** &nbsp;|&nbsp; 🚀 **MERN Stack & ASP.NET Core**
 
 </div>
 
@@ -29,6 +29,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
@@ -48,28 +49,26 @@
 
 ## 🚀 Current Focus
 
-```text
-📡 RESTful API Development    ████████████░░░░  Building robust APIs
-🏗️  System Design             ██████████░░░░░░  Designing scalable systems
-🧹 Clean Architecture         ████████░░░░░░░░  Writing maintainable code
-🤖 AI Integration             ██████░░░░░░░░░░  Exploring AI-powered apps
-```
+| Mục tiêu | Tiến độ |
+|----------|---------|
+| 📡 RESTful API Development | ████████████░░░░ 85% |
+| 🏗️ System Design | ██████████░░░░░░ 70% |
+| 🧹 Clean Architecture | ████████░░░░░░░░ 65% |
+| 🤖 AI Integration | ██████░░░░░░░░░░ 50% |
+
+> 🎯 *Building robust APIs · Designing scalable backends with ASP.NET Core & MERN*
 
 ---
 
 ## 🗂️ Featured Projects
 
-<div align="center">
-
 | Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🚧 **Project Name** | Short description of what it does | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| 🚧 **Project Name** | Short description of what it does | ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
-| 🚧 **Project Name** | Short description of what it does | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
+|---------|-------------|------------|
+| [**MERN TaskFlow**](https://github.com/Na-tech74/your-project-link) | Fullstack task manager with JWT authentication | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| [**E-Commerce API**](https://github.com/Na-tech74/your-project-link) | RESTful API with clean architecture | ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
+| [**Analytics Dashboard**](https://github.com/Na-tech74/your-project-link) | Data visualization dashboard | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
 
-</div>
-
-> 💡 Replace the rows above with your real projects and link them: `[**Project Name**](https://github.com/Na-tech74/repo-name)`
+> 💡 *Thay link `your-project-link` bằng link thật của project bạn nhé!*
 
 ---
 
@@ -77,9 +76,9 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Na-tech74&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F8EF7&icon_color=4F8EF7" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Na-tech74&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F8EF7&icon_color=4F8EF7" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Na-tech74&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F8EF7" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Na-tech74&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F8EF7" />
 
 </div>
 
@@ -102,6 +101,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-4F8EF7?style=for-the-badge&logo=vercel&logoColor=white)](https://namnguyenportfolio.vercel.app/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/nguyen.nam.394402)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nam.env)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Na-tech74)
 
 </div>
 
