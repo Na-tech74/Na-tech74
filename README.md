@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there 👋 I'm Nam
 
-<!--
-**Na-tech74/Na-tech74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Technology Student
 
-Here are some ideas to get you started:
+💻 Backend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 MERN Stack & ASP.NET Core
+
+## 🛠 Tech Stack
+
+### Backend
+- ASP.NET Core
+- Node.js
+- Express.js
+- FastAPI
+
+### Frontend
+- React.js
+- Bootstrap
+
+### Database
+- MongoDB
+- SQL Server
+
+### Tools
+- Git
+- GitHub
+- Postman
+
+## 🚀 Current Focus
+
+- RESTful API Development
+- System Design
+- Clean Architecture
+- AI Integration
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Na-tech74&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Na-tech74&layout=compact&theme=tokyonight)
