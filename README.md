@@ -44,34 +44,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
-## 🚀 Current Focus
-
-```text
-📡 RESTful API Development    ████████████░░░░  Building robust APIs
-🏗️  System Design             ██████████░░░░░░  Designing scalable systems
-🧹 Clean Architecture         ████████░░░░░░░░  Writing maintainable code
-🤖 AI Integration             ██████░░░░░░░░░░  Exploring AI-powered apps
-```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Na-tech74&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F8EF7&icon_color=4F8EF7" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Na-tech74&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F8EF7" />
-
-<br/>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Na-tech74&theme=tokyonight&hide_border=true&background=0D1117&stroke=4F8EF7&ring=4F8EF7&fire=FF6C37&currStreakLabel=4F8EF7)
-
-</div>
-
----
 
 ## 🌐 Connect with me
 
