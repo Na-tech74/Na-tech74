@@ -64,11 +64,9 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [**MERN TaskFlow**](https://github.com/Na-tech74/your-project-link) | Fullstack task manager with JWT authentication | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| [**MERN TaskFlow**](https://github.com/Na-tech74/mern-guitar-shop-rag) | Fullstack task manager with JWT authentication | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 | [**E-Commerce API**](https://github.com/Na-tech74/your-project-link) | RESTful API with clean architecture | ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) |
 | [**Analytics Dashboard**](https://github.com/Na-tech74/your-project-link) | Data visualization dashboard | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-
-> 💡 *Thay link `your-project-link` bằng link thật của project bạn nhé!*
 
 ---
 
