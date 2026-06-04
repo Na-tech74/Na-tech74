@@ -6,7 +6,7 @@
 
 <br/>
 
-🎓 **IT Student** &nbsp;|&nbsp; 💻 **Backend Developer** &nbsp;|&nbsp; 🚀 **MERN Stack & ASP.NET Core**
+🎓 **Information Technology Engneering Major** &nbsp;|&nbsp; 💻 **Backend Developer** &nbsp;|&nbsp; 🚀 **MERN Stack & ASP.NET Core**
 
 </div>
 
